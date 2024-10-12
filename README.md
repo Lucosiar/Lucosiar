@@ -4,6 +4,7 @@
 
 ### Sobre mí
 ❤️ Me encanta desarrollar modelos de IA que luego se puedan implementar en aplicaciones o páginas.
+
 ⭐ Como hobbie me gusta mucho el desarrollo de aplicaciones móviles.
 
 ## Redes Sociales
