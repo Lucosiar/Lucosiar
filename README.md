@@ -1,6 +1,6 @@
 <h1 align="center">Hola, Soy Lucía 👋</h1>
 
-![bannerLinkedin](https://github.com/user-attachments/assets/777962bb-2825-4afb-bfec-9b560ba5710b)
+![Image](https://github.com/user-attachments/assets/2042d237-077e-4416-b8da-fbbc04456b75)
 
 ### Sobre mí
 ❤️ Me encanta desarrollar modelos de IA que luego se puedan implementar en aplicaciones o páginas.
