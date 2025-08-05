@@ -1,6 +1,6 @@
 <h1 align="center">Hola, Soy Lucía 👋</h1>
 
-![Image](https://github.com/user-attachments/assets/2042d237-077e-4416-b8da-fbbc04456b75)
+<img width="1584" height="396" alt="bannerLucosiar" src="https://github.com/user-attachments/assets/76144c3e-369f-4a1d-96d7-6e4d85c979ec" />
 
 ### Sobre mí
 ❤️ Me encanta desarrollar modelos de IA que luego se puedan implementar en aplicaciones o páginas.
